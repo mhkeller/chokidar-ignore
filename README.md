@@ -1,7 +1,7 @@
 Chokidar-cli ignore
 ===================
 
-A quick repo to show a potential error in chokidar-cli
+> A quick repo to show a potential error in chokidar-cli.
 
 ## Installation
 

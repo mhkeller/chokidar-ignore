@@ -1,7 +1,7 @@
 {
-  "name": "n",
-  "version": "1.0.0",
-  "description": "",
+  "name": "chokidar-ignore",
+  "version": "0.0.1",
+  "description": "A quick repo to show a potential error in chokidar-cli.",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
