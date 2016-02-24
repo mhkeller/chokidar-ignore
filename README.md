@@ -21,6 +21,6 @@ On my system this prints out the following display, that says it is watching `".
 
 ![](assets/watch.png)
 
-If you modify that file, however, `npm start` will not run. It is being properly ignored despite the console message.
+If you modify `src/css/styles.styl`, however, `npm start` will not run. It is being properly ignored despite the console message.
 
 If you modify `src/js/main.js`, the `npm start` command will run and you will see corresponding console output.
